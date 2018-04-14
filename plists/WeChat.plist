@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://portal.qiniu.com/bucket/tiger8/index/WeChat.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://portal.qiniu.com/bucket/tiger8/index/WeChat-AppIcon60x60@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://portal.qiniu.com/bucket/tiger8/index/WeChat-AppIcon60x60@2x.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tiger8.wx</string>
+				<key>bundle-version</key>
+				<string>6.5.12</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>WeChatPro</string>
+				<key>title</key>
+				<string>WeChatPro</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
